@@ -12,10 +12,7 @@ I am passionate about crafting efficient, scalable backend systems using .NET te
 
 💾 SQL Server & Database Management
 
-I'm always eager to learn and contribute to impactful projects. Let's collaborate and build something amazing together!
-
-Feel free to adjust it based on your preferences!
-
+I'm always eager to learn and contribute to impactful projects.
 
 
 
