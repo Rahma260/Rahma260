@@ -70,10 +70,11 @@ Currently completing my Bachelor's in **Computer Science & Artificial Intelligen
   🔗 [alx-low_level_programming](https://github.com/Rahma260/alx-low_level_programming)
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+![Rahma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma260&show_icons=true&theme=react&count_private=true&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma260&layout=compact&theme=react) ![Rahma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma260&show_icons=true&theme=react&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma260&layout=compact&theme=react)
 
 ---
 
