@@ -31,7 +31,6 @@ Currently completing my Bachelor's in **Computer Science & Artificial Intelligen
 
 **🌐 Frontend Tools**
 - HTML5, CSS3, Bootstrap
-- Razor Pages
 
 **🛠 Tools & Platforms**
 - Visual Studio, Git, GitHub
