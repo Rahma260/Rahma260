@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Rahma Khaled
 
 🎓 **Computer Science Fresh Graduste** | 💻 **.NET Backend Developer**  
-📍 Giza, Egypt | 📧 rahmakh248@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rahma-khaled260)
+📍 Giza, Egypt | 📧 rahmakh248@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rahma-khaled-6b5839276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
