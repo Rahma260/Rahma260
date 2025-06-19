@@ -80,7 +80,7 @@ Currently completing my Bachelor's in **Computer Science & Artificial Intelligen
 ## 📬 Let’s Connect!
 
 - 📧 Email: rahmakh248@gmail.com  
-- 💼 LinkedIn: [rahma-khaled](in/rahma-khaled-6b5839276)  
+- 💼 LinkedIn: [rahma-khaled](https://www.linkedin.com/in/rahma-khaled-6b5839276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 💻 GitHub: [Rahma260](https://github.com/Rahma260)
 
 ---
