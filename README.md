@@ -22,7 +22,7 @@ Currently completing my Bachelor's in **Computer Science & Artificial Intelligen
 - API Security & Authentication
 
 **💾 Databases**
-- SQL Server, SQLite
+- SQL Server
 - Database design, migrations, and optimization
 
 **🧠 Programming & Design**
