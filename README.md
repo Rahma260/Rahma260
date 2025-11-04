@@ -3,7 +3,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I’m a **Software Engineer** from **Giza, Egypt**, passionate about building secure, scalable, and user-focused applications.  
 With solid experience in both **.NET backend** and **React frontend**, I love transforming real-world problems into efficient, elegant software solutions.  
@@ -79,7 +79,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 ---
 
-### 🎓 Education
+### Education
 **Helwan University – Faculty of Computers and Artificial Intelligence**  
  *Oct 2021 – Jun 2025*  
  GPA: **3.49 (Excellent)** | Graduation Project: **A+**
@@ -95,24 +95,24 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=0e75b6&style=flat" alt="rahmakhaled" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahma260&show_icons=true&theme=radical" alt="rahmakhaled stats" />
 </p>
 
-### 📈 Top Languages
+### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma260&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 🔥 GitHub Streak Stats
+### GitHub Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Rahma260&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
