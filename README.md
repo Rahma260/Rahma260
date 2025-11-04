@@ -36,7 +36,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 **🗄️ Databases & ORM**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mssql,sqlserver" />
 </p>
 
 **⚙️ Tools & Platforms**  
@@ -98,7 +98,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/rahmakhaled" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahma-khaled-6b5839276/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="mailto:rahmakh248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 <a href="https://github.com/rahmakhaled"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
