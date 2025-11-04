@@ -17,19 +17,19 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ---
 
-### 🧰 Tech Stack
+<h2 align="left">🧰 Tech Stack</h2>
 
-**💡 Programming Languages**  
+<h3>Programming Languages</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,js,html,css,c" />
 </p>
 
-**🧱 Web Development**  
+<h3>Web Development</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,react,bootstrap,tailwind" />
 </p>
 
-**🗄️ Databases & ORM**  
+<h3>Databases & ORM</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
@@ -37,12 +37,12 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 `SQL Server` • `Firebase` • `Firestore` • `Entity Framework` • `LINQ`
 
-**⚙️ Tools & Platforms**  
+<h3>Tools & Platforms</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,vercel,docker,linux" />
 </p>
 
-**📚 Frameworks & Concepts**  
+<h3>Frameworks & Concepts</h3>
 `Entity Framework`, `LINQ`, `SignalR`, `Redux`, `Context API`,  
 `Clean Architecture`, `Onion Architecture`, `OOP`, `SOLID Principles`
 
@@ -56,7 +56,8 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 - It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
 - The system includes an Admin Dashboard for managing users, appointments, and medical updates, integrated with email notifications and Cloudinary for secure medical file storage.
 
-#### [By Way – E-Learning System (AZM Squad Internship)][Frontend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-FE-byway) | [Backend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-BE-byway)  
+#### By Way – E-Learning System (AZM Squad Internship)
+[Frontend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-FE-byway) | [Backend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-BE-byway)  
 **Tech:** ASP.NET Core Web API · React · Tailwind CSS · Framer Motion · SQL Server · JWT · Cloudinary · Context API · Toast Notifications  
 - A full-stack e-learning platform designed to enhance the online education experience.  
 - It enables **instructors to manage courses** and **students to browse, purchase, and learn** interactively.  
