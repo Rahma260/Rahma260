@@ -56,7 +56,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 - It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
 - The system includes an Admin Dashboard for managing users, appointments, and medical updates, integrated with email notifications and Cloudinary for secure medical file storage.
 
-#### [By Way – E-Learning System (AZM Squad Internship Graduation Project)](https://github.com/)
+#### [By Way – E-Learning System (AZM Squad Internship Graduation Project)]([https://github.com/](https://github.com/Rahma260/algoriza-internship2025-FS195-FE-byway)(https://github.com/Rahma260/algoriza-internship2025-FS195-BE-byway)
 **Tech:** ASP.NET Core Web API, React, Tailwind CSS, Framer Motion, SQL Server, JWT, Cloudinary, Toast Notifications, Context Api  
 - Full-stack platform for course management and student learning.  
 - Used **Identity & JWT** for secure authentication and **Onion Architecture** for scalability.  
