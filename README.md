@@ -47,9 +47,10 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### [Doctor You – Smart Healthcare Platform (Graduation Project)](https://github.com/Rahma260/DoctorYou)
+<h4>Doctor You – Smart Healthcare Platform (Graduation Project)</h4>
+[Github Repository](https://github.com/Rahma260/DoctorYou)
 **Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
 - A comprehensive full-stack healthcare platform connecting doctors, patients, laboratories, and clinics in a secure digital ecosystem.
 - It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
@@ -86,7 +87,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/rahma-khaled-6b5839276/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="mailto:rahmakh248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
