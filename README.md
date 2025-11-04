@@ -51,31 +51,29 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 🚀 Featured Projects
 
-#### 🩺 [Doctor You – Smart Healthcare Platform](https://github.com/)
+#### [Doctor You – Smart Healthcare Platform (Graduation Project)]([https://github.com/](https://github.com/Rahma260/DoctorYou))
 **Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
-- Built a full-stack healthcare system for doctors, patients, and clinics.  
-- Integrated **real-time video consultations** and **AI-powered diagnosis**.  
-- Developed secure API endpoints with **authentication & authorization**.  
-- Created **Admin Dashboards** in React and handled **file storage via Cloudinary**.
+- A comprehensive full-stack healthcare platform connecting doctors, patients, laboratories, and clinics in a secure digital ecosystem.
+- It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
+- The system includes an Admin Dashboard for managing users, appointments, and medical updates, integrated with email notifications and Cloudinary for secure medical file storage.
 
-#### 🎓 [By Way – E-Learning System (AZM Squad Internship)](https://github.com/)
-**Tech:** ASP.NET Core Web API, React, Tailwind CSS, SQL Server, JWT, Cloudinary  
+#### [By Way – E-Learning System (AZM Squad Internship Graduation Project)](https://github.com/)
+**Tech:** ASP.NET Core Web API, React, Tailwind CSS, Framer Motion, SQL Server, JWT, Cloudinary, Toast Notifications, Context Api  
 - Full-stack platform for course management and student learning.  
 - Used **Identity & JWT** for secure authentication and **Onion Architecture** for scalability.  
 - Built analytics dashboards with **Recharts** and **pagination/search features**.
 
-#### ✅ [Task Management Web App (DevWave Internship)](https://github.com/)
-**Tech:** React, Firebase, Redux, Tailwind CSS, Framer Motion  
-- Collaborative system for task tracking with real-time updates.  
-- Used **Firebase Authentication & Firestore** for secure storage.  
-- Added charts, animations, and notifications for interactive UX.
+#### [Medical Center Management System](https://github.com/Rahma260/Medical-Center)
+**Tech:** React · Firebase · Firestore · MUI · Framer Motion, Cloudinary 
+- A modern healthcare web application that streamlines the interaction between doctors and patients. It features admin dashboards, appointment scheduling, and real-time data management using Firebase.
+- Includes a doctor profile with schedule management, a patient portal for appointments, and an admin dashboard supporting full CRUD operations on doctors, patients, and applications — all built with an intuitive MUI interface and smooth animations powered by Framer Motion.
 
-#### 🍽️ [Restaurant System (DevWave Internship)](https://github.com/)
+#### [Restaurant System](https://github.com/Rahma260/restaurant-system)
 **Tech:** React, Tailwind CSS, Context API, Framer Motion  
 - Built responsive restaurant management UI with **menu, search, cart, and wishlist**.  
 - Added **authentication with protected routes** and interactive animations.
 
-#### 📰 [Magazine Website (ITI Final Project)](https://github.com/)
+#### [Magazine Website (ITI Final Project)](https://github.com/Rahma260/ITI-Summer-Training/tree/main/Magazine_FinalProject)
 **Tech:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap, JS  
 - Developed a responsive site for managing news, authors, and departments.  
 - Implemented backend logic and relational data handling using **EF & LINQ**.
@@ -86,12 +84,6 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 **Helwan University – Faculty of Computers and Artificial Intelligence**  
 📅 *Oct 2021 – Jun 2025*  
 🎯 GPA: **3.49 (Excellent)** | Graduation Project: **A+**
-
----
-
-### 🏅 Certifications
-- **.NET Full-Stack Summer Training** – ITI Cairo (Aug–Sep 2024)  
-- **Software Engineering Program** – ALX Arabia (Jul–Oct 2023)
 
 ---
 
