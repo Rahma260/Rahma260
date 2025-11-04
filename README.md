@@ -51,6 +51,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 #### Doctor You – Smart Healthcare Platform (Graduation Project)
 [Github Repository](https://github.com/Rahma260/DoctorYou) | [Live Demo](https://doctoryou.runasp.net/index.html)
+---
 **Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
 - A comprehensive full-stack healthcare platform connecting doctors, patients, laboratories, and clinics in a secure digital ecosystem.
 - It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
@@ -58,6 +59,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 #### By Way – E-Learning System (AZM Squad Internship)
 [Frontend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-FE-byway) | [Backend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-BE-byway) | [Live Demo](https://algoriza-internship2025-fs-195-fe-b-six.vercel.app/)
+---
 **Tech:** ASP.NET Core Web API · React · Tailwind CSS · Framer Motion · SQL Server · JWT · Cloudinary · Context API · Toast Notifications  
 - A full-stack e-learning platform designed to enhance the online education experience.  
 - It enables **instructors to manage courses** and **students to browse, purchase, and learn** interactively.  
@@ -65,18 +67,21 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 #### Medical Center Management System
 [Github Repository](https://github.com/Rahma260/Medical-Center) | [Live Demo](https://medical-center-steel-chi.vercel.app/)
+---
 **Tech:** React · Firebase · Firestore · MUI · Framer Motion, Cloudinary 
 - A modern healthcare web application that streamlines the interaction between doctors and patients. It features admin dashboards, appointment scheduling, and real-time data management using Firebase.
 - Includes a doctor profile with schedule management, a patient portal for appointments, and an admin dashboard supporting full CRUD operations on doctors, patients, and applications — all built with an intuitive MUI interface and smooth animations powered by Framer Motion.
 
 #### Restaurant System
 [Github Repository](https://github.com/Rahma260/restaurant-system) | [Live Demo](https://hagoga-chi.vercel.app/)
+---
 **Tech:** React, Tailwind CSS, Context API, Framer Motion  
 - Built responsive restaurant management UI with **menu, search, cart, and wishlist**.  
 - Added **authentication with protected routes** and interactive animations.
 
 #### Magazine Website (ITI Final Project)
 [Github Repository](https://github.com/Rahma260/ITI-Summer-Training/tree/main/Magazine_FinalProject)
+---
 **Tech:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap, JS  
 - Developed a responsive site for managing news, authors, and departments.  
 - Implemented backend logic and relational data handling using **EF & LINQ**.
