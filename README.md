@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahma Khaled</h1>
 <h3 align="center">Software Engineer | .NET Full-Stack Developer | React Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=ff69b4&style=flat" alt="rahmakhaled" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -36,8 +32,8 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 **🗄️ Databases & ORM**  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" width="50" alt="SQL Server" />
   <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
 </p>
 
 `SQL Server` • `Firebase` • `Firestore` • `Entity Framework` • `LINQ`
@@ -99,27 +95,36 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ---
 
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/rahma-khaled-6b5839276/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="mailto:rahmakh248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="https://github.com/rahmakhaled"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=0e75b6&style=flat" alt="rahmakhaled" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmakhaled&show_icons=true&theme=radical" alt="rahmakhaled stats" />
 </p>
 
+### 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmakhaled&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/rahma-khaled-6b5839276/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="mailto:rahmakh248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-<a href="https://github.com/rahmakhaled"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmakhaled&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
