@@ -90,7 +90,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 <p align="left">
 <a href="https://www.linkedin.com/in/rahma-khaled-6b5839276/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="mailto:rahmakh248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-<a href="https://github.com/rahmakhaled"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+<a href="https://github.com/Rahma260"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
 ---
