@@ -36,7 +36,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 **🗄️ Databases & ORM**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mssql" />
 </p>
 
 **⚙️ Tools & Platforms**  
