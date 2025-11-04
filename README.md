@@ -51,7 +51,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 🚀 Featured Projects
 
-#### [Doctor You – Smart Healthcare Platform (Graduation Project)]([https://github.com/](https://github.com/Rahma260/DoctorYou))
+#### [Doctor You – Smart Healthcare Platform (Graduation Project)](https://github.com/](https://github.com/Rahma260/DoctorYou)
 **Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
 - A comprehensive full-stack healthcare platform connecting doctors, patients, laboratories, and clinics in a secure digital ecosystem.
 - It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
