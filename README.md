@@ -49,7 +49,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 
 ### Featured Projects
 
-#### Doctor You – Smart Healthcare Platform (Graduation Project)
+### Doctor You – Smart Healthcare Platform (Graduation Project)
 ---
 [Github Repository](https://github.com/Rahma260/DoctorYou) | [Live Demo](https://doctoryou.runasp.net/index.html)
 ---
@@ -58,7 +58,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - It supports real-time chat consultations, AI-powered diagnosis, and encrypted data handling with advanced authentication, authorization, and hashing mechanisms.
 - The system includes an Admin Dashboard for managing users, appointments, and medical updates, integrated with email notifications and Cloudinary for secure medical file storage.
 
-#### By Way – E-Learning System (AZM Squad Internship)
+### By Way – E-Learning System (AZM Squad Internship)
 ---
 [Frontend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-FE-byway) | [Backend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-BE-byway) | [Live Demo](https://algoriza-internship2025-fs-195-fe-b-six.vercel.app/)
 ---
@@ -67,7 +67,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - It enables **instructors to manage courses** and **students to browse, purchase, and learn** interactively.  
 - Implemented **secure authentication** using Identity and JWT, applied **Onion Architecture** for maintainability, and built dynamic **analytics dashboards** with Recharts, pagination, and search capabilities.
 
-#### Medical Center Management System
+### Medical Center Management System
 ---
 [Github Repository](https://github.com/Rahma260/Medical-Center) | [Live Demo](https://medical-center-steel-chi.vercel.app/)
 ---
@@ -75,7 +75,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - A modern healthcare web application that streamlines the interaction between doctors and patients. It features admin dashboards, appointment scheduling, and real-time data management using Firebase.
 - Includes a doctor profile with schedule management, a patient portal for appointments, and an admin dashboard supporting full CRUD operations on doctors, patients, and applications — all built with an intuitive MUI interface and smooth animations powered by Framer Motion.
 
-#### Restaurant System
+### Restaurant System
 ---
 [Github Repository](https://github.com/Rahma260/restaurant-system) | [Live Demo](https://hagoga-chi.vercel.app/)
 ---
@@ -83,7 +83,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - Built responsive restaurant management UI with **menu, search, cart, and wishlist**.  
 - Added **authentication with protected routes** and interactive animations.
 
-#### Magazine Website (ITI Final Project)
+### Magazine Website (ITI Final Project)
 [Github Repository](https://github.com/Rahma260/ITI-Summer-Training/tree/main/Magazine_FinalProject)
 ---
 **Tech:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap, JS  
