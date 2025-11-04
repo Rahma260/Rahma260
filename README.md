@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahma Khaled</h1>
 <h3 align="center">.NET Backend Developer | ASP.NET MVC | SQL Server | AI Enthusiast</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=ff69b4&style=flat" alt="rahmakhaled" />
+</p>
 ---
 
 ### 👩‍💻 About Me
