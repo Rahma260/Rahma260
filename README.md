@@ -113,17 +113,17 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmakhaled&show_icons=true&theme=radical" alt="rahmakhaled stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahma260&show_icons=true&theme=radical" alt="rahmakhaled stats" />
 </p>
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma260&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahmakhaled&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rahma260&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
