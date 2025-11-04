@@ -123,10 +123,9 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahmakhaled&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rahma260&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
 ---
 
 ⭐️ From [Rahma Khaled](https://github.com/rahmakhaled)
