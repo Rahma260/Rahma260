@@ -1,53 +1,106 @@
 <h1 align="center">Hi 👋, I'm Rahma Khaled</h1>
-<h3 align="center">.NET Backend Developer | ASP.NET MVC | SQL Server | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | .NET Full-Stack Developer | React Enthusiast</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=ff69b4&style=flat" alt="rahmakhaled" />
 </p>
+
 ---
 
 ### 👩‍💻 About Me
 
-I'm a passionate **.NET Developer** focused on building scalable, clean, and user-friendly web applications using ASP.NET Core MVC and SQL Server.  
-I love solving problems, writing clean code, and continuously learning new technologies to improve my craft.
+I’m a **Software Engineer** from **Giza, Egypt**, passionate about building secure, scalable, and user-focused applications.  
+With solid experience in both **.NET backend** and **React frontend**, I love transforming real-world problems into efficient, elegant software solutions.  
 
-- 🌱 Currently learning **Advanced ASP.NET Core & System Design**
-- 💬 Ask me about **C#, LINQ, Entity Framework, and ASP.NET MVC**
-- 🚀 I’m open to **Backend or Full-Stack opportunities**
-- 📫 Reach me at **rahmakhaled@example.com**
-- ⚡ Fun fact: *I enjoy debugging as much as coding!*
+- 🎓 **B.Sc. in Computers & Artificial Intelligence**, Helwan University (GPA: 3.49 - Excellent)  
+- 💼 Experienced through internships at **DevWave**, **Azm Squad**, and **ITI**  
+- 🌱 Currently improving my skills in **Advanced ASP.NET Core**, **System Design**, and **AI-powered solutions**  
+- 💬 Ask me about: **C#, ASP.NET Core, Entity Framework, SQL Server, React, and Clean Architecture**  
+- 📫 Reach me at: **rahmakh248@gmail.com**  
+- 📍 Based in: **Giza, Egypt**  
+- ⚡ Fun fact: I enjoy debugging as much as developing new features!  
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks**  
+**💡 Programming Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,c" />
 </p>
 
-**Databases & Tools**  
+**🧱 Web Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,bootstrap,tailwind" />
 </p>
+
+**🗄️ Databases & ORM**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mssql,sqlite" />
+</p>
+
+**⚙️ Tools & Platforms**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,vercel,docker,linux" />
+</p>
+
+**📚 Frameworks & Concepts**  
+`Entity Framework`, `LINQ`, `SignalR`, `Redux`, `Context API`,  
+`Clean Architecture`, `Onion Architecture`, `OOP`, `SOLID Principles`
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmakhaled&show_icons=true&theme=radical" alt="rahmakhaled stats"/>
-</p>
+#### 🩺 [Doctor You – Smart Healthcare Platform](https://github.com/)  
+**Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
+- Built a full-stack healthcare system for doctors, patients, and clinics.  
+- Integrated **real-time video consultations** and **AI-powered diagnosis**.  
+- Developed secure API endpoints with **authentication & authorization**.  
+- Created **Admin Dashboards** in React and handled **file storage via Cloudinary**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+#### 🎓 [By Way – E-Learning System (AZM Squad Internship)](https://github.com/)  
+**Tech:** ASP.NET Core Web API, React, Tailwind CSS, SQL Server, JWT, Cloudinary  
+- Full-stack platform for course management and student learning.  
+- Used **Identity & JWT** for secure authentication and **Onion Architecture** for scalability.  
+- Built analytics dashboards with **Recharts** and **pagination/search features**.
+
+#### ✅ [Task Management Web App (DevWave Internship)](https://github.com/)  
+**Tech:** React, Firebase, Redux, Tailwind CSS, Framer Motion  
+- Collaborative system for task tracking with real-time updates.  
+- Used **Firebase Authentication & Firestore** for secure storage.  
+- Added charts, animations, and notifications for interactive UX.
+
+#### 🍽️ [Restaurant System (DevWave Internship)](https://github.com/)  
+**Tech:** React, Tailwind CSS, Context API, Framer Motion  
+- Built responsive restaurant management UI with **menu, search, cart, and wishlist**.  
+- Added **authentication with protected routes** and interactive animations.
+
+#### 📰 [Magazine Website (ITI Final Project)](https://github.com/)  
+**Tech:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap, JS  
+- Developed a responsive site for managing news, authors, and departments.  
+- Implemented backend logic and relational data handling using **EF & LINQ**.
+
+---
+
+### 🎓 Education
+**Helwan University – Faculty of Computers and Artificial Intelligence**  
+📅 *Oct 2021 – Jun 2025*  
+🎯 GPA: **3.49 (Excellent)** | Graduation Project: **A+**
+
+---
+
+### 🏅 Certifications
+- **.NET Full-Stack Summer Training** – ITI Cairo (Aug–Sep 2024)  
+- **Software Engineering Program** – ALX Arabia (Jul–Oct 2023)
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/rahmakhaled" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="mailto:rahmakhaled@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="mailto:rahmakh248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="https://github.com/rahmakhaled"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
 ---
