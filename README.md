@@ -36,8 +36,11 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 **🗄️ Databases & ORM**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql" />
+  <img src="https://skillicons.dev/icons?i=mssql,firebase" />
 </p>
+
+`SQL Server` • `Firebase` • `Firestore` • `Entity Framework` • `LINQ`
+
 
 **⚙️ Tools & Platforms**  
 <p align="left">
