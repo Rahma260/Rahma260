@@ -8,13 +8,12 @@
 I’m a **Software Engineer** from **Giza, Egypt**, passionate about building secure, scalable, and user-focused applications.  
 With solid experience in both **.NET backend** and **React frontend**, I love transforming real-world problems into efficient, elegant software solutions.  
 
-- 🎓 **B.Sc. in Computers & Artificial Intelligence**, Helwan University (GPA: 3.49 - Excellent)  
-- 💼 Experienced through internships at **DevWave**, **Azm Squad**, and **ITI**  
-- 🌱 Currently improving my skills in **Advanced ASP.NET Core**, **System Design**, and **AI-powered solutions**  
-- 💬 Ask me about: **C#, ASP.NET Core, Entity Framework, SQL Server, React, and Clean Architecture**  
-- 📫 Reach me at: **rahmakh248@gmail.com**  
-- 📍 Based in: **Giza, Egypt**  
-- ⚡ Fun fact: I enjoy debugging as much as developing new features!  
+-  **B.Sc. in Computers & Artificial Intelligence**, Helwan University (GPA: 3.49 - Excellent)  
+-  Experienced through internships at **DevWave**, **Azm Squad**, and **ITI**  
+-  Currently improving my skills in **Advanced ASP.NET Core**, **System Design**, and **AI-powered solutions**  
+-  Ask me about: **C#, ASP.NET Core, Entity Framework, SQL Server, React, and Clean Architecture**  
+-  Reach me at: **rahmakh248@gmail.com**  
+-  Based in: **Giza, Egypt**  
 
 ---
 
@@ -82,8 +81,8 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 🎓 Education
 **Helwan University – Faculty of Computers and Artificial Intelligence**  
-📅 *Oct 2021 – Jun 2025*  
-🎯 GPA: **3.49 (Excellent)** | Graduation Project: **A+**
+ *Oct 2021 – Jun 2025*  
+ GPA: **3.49 (Excellent)** | Graduation Project: **A+**
 
 ---
 
