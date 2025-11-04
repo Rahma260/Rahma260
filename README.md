@@ -50,6 +50,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 ### Featured Projects
 
 #### Doctor You – Smart Healthcare Platform (Graduation Project)
+---
 [Github Repository](https://github.com/Rahma260/DoctorYou) | [Live Demo](https://doctoryou.runasp.net/index.html)
 ---
 **Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
@@ -58,6 +59,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - The system includes an Admin Dashboard for managing users, appointments, and medical updates, integrated with email notifications and Cloudinary for secure medical file storage.
 
 #### By Way – E-Learning System (AZM Squad Internship)
+---
 [Frontend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-FE-byway) | [Backend Repository](https://github.com/Rahma260/algoriza-internship2025-FS195-BE-byway) | [Live Demo](https://algoriza-internship2025-fs-195-fe-b-six.vercel.app/)
 ---
 **Tech:** ASP.NET Core Web API · React · Tailwind CSS · Framer Motion · SQL Server · JWT · Cloudinary · Context API · Toast Notifications  
@@ -66,6 +68,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - Implemented **secure authentication** using Identity and JWT, applied **Onion Architecture** for maintainability, and built dynamic **analytics dashboards** with Recharts, pagination, and search capabilities.
 
 #### Medical Center Management System
+---
 [Github Repository](https://github.com/Rahma260/Medical-Center) | [Live Demo](https://medical-center-steel-chi.vercel.app/)
 ---
 **Tech:** React · Firebase · Firestore · MUI · Framer Motion, Cloudinary 
@@ -73,6 +76,7 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 - Includes a doctor profile with schedule management, a patient portal for appointments, and an admin dashboard supporting full CRUD operations on doctors, patients, and applications — all built with an intuitive MUI interface and smooth animations powered by Framer Motion.
 
 #### Restaurant System
+---
 [Github Repository](https://github.com/Rahma260/restaurant-system) | [Live Demo](https://hagoga-chi.vercel.app/)
 ---
 **Tech:** React, Tailwind CSS, Context API, Framer Motion  
