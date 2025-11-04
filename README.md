@@ -1,89 +1,53 @@
-# 👋 Hi there! I'm Rahma Khaled
-
-🎓 **Computer Science Fresh Graduste** | 💻 **.NET Backend Developer**  
-📍 Giza, Egypt | 📧 rahmakh248@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/rahma-khaled-6b5839276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<h1 align="center">Hi 👋, I'm Rahma Khaled</h1>
+<h3 align="center">.NET Backend Developer | ASP.NET MVC | SQL Server | AI Enthusiast</h3>
 
 ---
 
-## 💡 About Me
+### 👩‍💻 About Me
 
-I’m a passionate and driven backend developer with a strong focus on building robust, scalable, and secure applications using the **.NET ecosystem**. I thrive in collaborative environments where I can tackle real-world problems and deliver high-impact solutions.
+I'm a passionate **.NET Developer** focused on building scalable, clean, and user-friendly web applications using ASP.NET Core MVC and SQL Server.  
+I love solving problems, writing clean code, and continuously learning new technologies to improve my craft.
 
-Currently completing my Bachelor's in **Computer Science & Artificial Intelligence** at **Helwan University**, I combine academic knowledge with practical experience from internships, projects, and advanced training.
-
----
-
-## 🚀 Tech Stack & Skills
-
-**🖥️ Backend Development**
-- ASP.NET Core (MVC & Web API)
-- C#, .NET 8, Entity Framework
-- RESTful APIs, SignalR (real-time communication)
-- API Security & Authentication
-
-**💾 Databases**
-- SQL Server
-- Database design, migrations, and optimization
-
-**🧠 Programming & Design**
-- OOP, SOLID principles, Design Patterns
-- LINQ, Functional Programming with F#
-
-**🌐 Frontend Tools**
-- HTML5, CSS3, Bootstrap
-
-**🛠 Tools & Platforms**
-- Visual Studio, Git, GitHub
-- Postman, Swagger
-- Linux CLI, Git Bash
+- 🌱 Currently learning **Advanced ASP.NET Core & System Design**
+- 💬 Ask me about **C#, LINQ, Entity Framework, and ASP.NET MVC**
+- 🚀 I’m open to **Backend or Full-Stack opportunities**
+- 📫 Reach me at **rahmakhaled@example.com**
+- ⚡ Fun fact: *I enjoy debugging as much as coding!*
 
 ---
 
-## 🏆 Projects Highlights
+### 🧰 Tech Stack
 
-- **Doctor You – Smart Healthcare Platform**  
-  Built a full-stack medical app with secure video consultations, AI-powered diagnostics, patient dashboards, and real-time chat using ASP.NET Core, Flutter, and SignalR.  
-  🔗 [GitHub](https://github.com/El-Abbady/DoctorYou)
+**Languages & Frameworks**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,react" />
+</p>
 
-- **Magazine Website – ITI Final Project**  
-  CRUD-based ASP.NET MVC web app for managing articles and authors, styled with Bootstrap.  
-  🔗 [GitHub](https://github.com/Rahma260/ITI-Summer-Training/tree/main/Magazine_FinalProject)
-
-- **Student Grades Management System (F#)**  
-  A desktop application using Windows Forms for grade calculation and student data analysis.  
-  🔗 [GitHub](https://github.com/Nony841/Project_Student_Grade/tree/master)
-
-- **Order Analysis – Power BI Dashboard**  
-  Created a dynamic business analysis dashboard using Power BI to visualize revenue, orders, and regional performance.  
-  🔗 [GitHub](https://github.com/Rahma260/Order-Analysis)
+**Databases & Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,visualstudio,vscode" />
+</p>
 
 ---
 
-## 📜 Certifications & Training
+### 📊 GitHub Stats
 
-- **Information Technology Institute (ITI) – .NET Full-Stack Training**  
-  126 hours of intensive training covering C#, EF, ASP.NET MVC, Bootstrap, and SQL Server
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmakhaled&show_icons=true&theme=radical" alt="rahmakhaled stats"/>
+</p>
 
-- **ALX Africa – Software Engineering Foundations**  
-  Completed 29 low-level programming projects in C, Git, Linux, and DevOps  
-  🔗 [alx-low_level_programming](https://github.com/Rahma260/alx-low_level_programming)
-
----
-## 📊 GitHub Stats
-
-![Rahma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahma260&show_icons=true&theme=react&count_private=true&cache_seconds=60)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma260&layout=compact&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📬 Let’s Connect!
-
-- 📧 Email: rahmakh248@gmail.com  
-- 💼 LinkedIn: [rahma-khaled](https://www.linkedin.com/in/rahma-khaled-6b5839276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 💻 GitHub: [Rahma260](https://github.com/Rahma260)
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/rahmakhaled" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="mailto:rahmakhaled@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
 
 ---
 
-> ✨ “I believe that clean, efficient code paired with purposeful design can make any idea possible.”  
-> Let’s build something great together!
+⭐️ From [Rahma Khaled](https://github.com/rahmakhaled)
