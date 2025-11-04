@@ -17,7 +17,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ---
 
-<h2 align="left">🧰 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <h3>Programming Languages</h3>
 <p align="left">
@@ -43,8 +43,7 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 </p>
 
 <h3>Frameworks & Concepts</h3>
-`Entity Framework`, `LINQ`, `SignalR`, `Redux`, `Context API`,  
-`Clean Architecture`, `Onion Architecture`, `OOP`, `SOLID Principles`
+Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion Architecture, OOP, SOLID Principles
 
 ---
 
