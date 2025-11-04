@@ -36,11 +36,11 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 **🗄️ Databases & ORM**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mssql,firebase" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" width="50" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 `SQL Server` • `Firebase` • `Firestore` • `Entity Framework` • `LINQ`
-
 
 **⚙️ Tools & Platforms**  
 <p align="left">
@@ -55,31 +55,31 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 
 ### 🚀 Featured Projects
 
-#### 🩺 [Doctor You – Smart Healthcare Platform](https://github.com/)  
+#### 🩺 [Doctor You – Smart Healthcare Platform](https://github.com/)
 **Tech:** ASP.NET Core, EF, SignalR, SQL Server, React, Flutter, FastAPI, Cloudinary  
 - Built a full-stack healthcare system for doctors, patients, and clinics.  
 - Integrated **real-time video consultations** and **AI-powered diagnosis**.  
 - Developed secure API endpoints with **authentication & authorization**.  
 - Created **Admin Dashboards** in React and handled **file storage via Cloudinary**.
 
-#### 🎓 [By Way – E-Learning System (AZM Squad Internship)](https://github.com/)  
+#### 🎓 [By Way – E-Learning System (AZM Squad Internship)](https://github.com/)
 **Tech:** ASP.NET Core Web API, React, Tailwind CSS, SQL Server, JWT, Cloudinary  
 - Full-stack platform for course management and student learning.  
 - Used **Identity & JWT** for secure authentication and **Onion Architecture** for scalability.  
 - Built analytics dashboards with **Recharts** and **pagination/search features**.
 
-#### ✅ [Task Management Web App (DevWave Internship)](https://github.com/)  
+#### ✅ [Task Management Web App (DevWave Internship)](https://github.com/)
 **Tech:** React, Firebase, Redux, Tailwind CSS, Framer Motion  
 - Collaborative system for task tracking with real-time updates.  
 - Used **Firebase Authentication & Firestore** for secure storage.  
 - Added charts, animations, and notifications for interactive UX.
 
-#### 🍽️ [Restaurant System (DevWave Internship)](https://github.com/)  
+#### 🍽️ [Restaurant System (DevWave Internship)](https://github.com/)
 **Tech:** React, Tailwind CSS, Context API, Framer Motion  
 - Built responsive restaurant management UI with **menu, search, cart, and wishlist**.  
 - Added **authentication with protected routes** and interactive animations.
 
-#### 📰 [Magazine Website (ITI Final Project)](https://github.com/)  
+#### 📰 [Magazine Website (ITI Final Project)](https://github.com/)
 **Tech:** ASP.NET MVC, Entity Framework, SQL Server, Bootstrap, JS  
 - Developed a responsive site for managing news, authors, and departments.  
 - Implemented backend logic and relational data handling using **EF & LINQ**.
@@ -96,6 +96,22 @@ With solid experience in both **.NET backend** and **React frontend**, I love tr
 ### 🏅 Certifications
 - **.NET Full-Stack Summer Training** – ITI Cairo (Aug–Sep 2024)  
 - **Software Engineering Program** – ALX Arabia (Jul–Oct 2023)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmakhaled&show_icons=true&theme=radical" alt="rahmakhaled stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmakhaled&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmakhaled&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
