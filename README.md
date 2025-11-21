@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahma Khaled</h1>
-<h3 align="center">Software Engineer | .NET Full-Stack Developer | React Enthusiast</h3>
+<h3 align="center">Software Engineer | .NET Full-Stack Developer</h3>
 
 ---
 
