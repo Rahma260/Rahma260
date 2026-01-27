@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahma Khaled</h1>
 <h3 align="center">Software Engineer | .NET Full-Stack Developer</h3>
+---
+
+### Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=0e75b6&style=flat" alt="rahmakhaled" />
+</p>
+
+---
 
 ---
 
@@ -102,14 +110,6 @@ Entity Framework, LINQ, SignalR, Redux, Context API, Clean Architecture, Onion A
 <a href="https://github.com/Rahma260"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
----
-
-### Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rahmakhaled&label=Profile%20views&color=0e75b6&style=flat" alt="rahmakhaled" />
-</p>
-
----
 
 ### GitHub Stats
 <p align="center">
